@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\bin\Debug\net6.0\CoffeMachine_ADM.exe
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\bin\Debug\net6.0\CoffeMachine_ADM.deps.json
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\bin\Debug\net6.0\CoffeMachine_ADM.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\bin\Debug\net6.0\CoffeMachine_ADM.dll
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\bin\Debug\net6.0\CoffeMachine_ADM.pdb
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.dll
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\refint\CoffeMachine_ADM.dll
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.pdb
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\CoffeMachine_ADM.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Academico\2023-C1-C7\Administracion-Proyectos\CoffeMachine_ADM\CoffeMachine_ADM\obj\Debug\net6.0\ref\CoffeMachine_ADM.dll
