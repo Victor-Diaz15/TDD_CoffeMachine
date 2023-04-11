@@ -54,10 +54,13 @@ namespace CoffeMachine_ADM
                                 this.azucar.SetCantidadDeAzucar(azucar);
                             }
 
+                            int contenidoARestar = cantidadDeVasos * 10;
+                            int contenidoNuevo = this.vasosPequenos.GetContenido() - contenidoARestar;
+                            this.vasosPequenos.SetContenido(contenidoNuevo);
                             int cafetera = this.cafe.GetCantidadDeCafe();
                             if (cafetera > 0)
                             {
-                                cafetera -= this.vasosPequenos.GetContenido();
+                                cafetera -= contenidoARestar;
                                 this.cafe.SetCantidadDeCafe(cafetera);
                             }
                         }
@@ -99,12 +102,16 @@ namespace CoffeMachine_ADM
                                 this.azucar.SetCantidadDeAzucar(azucar);
                             }
 
+                            int contenidoARestar = cantidadDeVasos * 20;
+                            int contenidoNuevo = this.vasosMedianos.GetContenido() - contenidoARestar;
+                            this.vasosMedianos.SetContenido(contenidoNuevo);
                             int cafetera = this.cafe.GetCantidadDeCafe();
                             if (cafetera > 0)
                             {
-                                cafetera -= this.vasosMedianos.GetContenido();
+                                cafetera -= contenidoARestar;
                                 this.cafe.SetCantidadDeCafe(cafetera);
                             }
+                            
                         }
                         else
                         {
@@ -144,10 +151,13 @@ namespace CoffeMachine_ADM
                                 this.azucar.SetCantidadDeAzucar(azucar);
                             }
 
+                            int contenidoARestar = cantidadDeVasos * 30;
+                            int contenidoNuevo = this.vasosGrandes.GetContenido() - contenidoARestar;
+                            this.vasosGrandes.SetContenido(contenidoNuevo);
                             int cafetera = this.cafe.GetCantidadDeCafe();
                             if (cafetera > 0)
                             {
-                                cafetera -= this.vasosGrandes.GetContenido();
+                                cafetera -= contenidoARestar;
                                 this.cafe.SetCantidadDeCafe(cafetera);
                             }
                         }

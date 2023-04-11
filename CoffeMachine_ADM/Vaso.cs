@@ -14,7 +14,7 @@ namespace CoffeMachine_ADM
         public Vaso(int cantidadVasos, int contenido)
         {
             this.cantidadVasos = cantidadVasos;
-            this.contenido = contenido;
+            this.contenido = cantidadVasos * contenido;
         }
 
 

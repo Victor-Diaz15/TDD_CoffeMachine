@@ -1,10 +1,6 @@
-﻿namespace CoffeMachine_ADM
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+﻿using CoffeMachine_ADM;
+MyCoffeMachine app = new MyCoffeMachine();
+app.Run();
+
+
+
